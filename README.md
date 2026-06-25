@@ -92,3 +92,11 @@ Meu objetivo é me tornar um engenheiro especializado em **IA e LLMs**, desenvol
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=SLU-369&color=00D9FF&style=flat-square&label=Profile+Views" alt="Profile views" />
 </div>
+
+<picture data-importer="pacman">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SLU-369 /SLU-369 /pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SLU-369 /SLU-369 /pacman-output/pacman-contribution-graph.svg?game=pacman">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/SLU-369 /SLU-369 /pacman-output/pacman-contribution-graph.svg?game=pacman">
+</picture>
+
+###
