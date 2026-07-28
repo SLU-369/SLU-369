@@ -73,7 +73,7 @@ Meu objetivo de longo prazo é atuar com **Engenharia de IA e LLMs**, construind
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=SLU-369&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3)](https://git.io/streak-stats)
 
-[![Samuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=SLU-369&show_icons=true&theme=dark&hide_border=false&border_radius=5&include_all_commits=true&count_private=true)](https://github.com/SLU-369)
+[![Samuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=SLU-369&show_icons=true&theme=dark&hide_border=false&border_radius=5&include_all_commits=true)](https://github.com/SLU-369)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SLU-369&layout=compact&theme=dark&hide_border=false&border_radius=5)](https://github.com/SLU-369)
 
