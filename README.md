@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=Backend+Engineer+in+Development;Python+%7C+React+%7C+n8n+%7C+AI;AI-Focused+Developer;Always+building%2C+always+learning.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Backend+Engineer+%7C+Python+%26+AI;Building+Real+Products%2C+Not+Just+Exercises;Working+with+AI+Agents+in+Production;Always+building%2C+always+learning.)](https://git.io/typing-svg)
 
 </div>
 
@@ -14,20 +14,15 @@
 
 ## 👾 Hi, I'm Samuel Uchoa
 
-Desenvolvedor com foco em **Python** e **Inteligência Artificial aplicada**.
+Desenvolvedor Backend com foco em **Python** e **Inteligência Artificial aplicada**.
 
-Iniciei minha jornada na programação em **2025** e desde então venho construindo uma base sólida em desenvolvimento backend, automações e IA. Atualmente curso **Análise e Desenvolvimento de Sistemas na UNIP** e estudo continuamente através da **Rocketseat** e do curso do **Gustavo Guanabara**.
+Atuo na **Educon FGV** desenvolvendo agentes de IA voltados para otimização de processos comerciais e operacionais. Curso **Análise e Desenvolvimento de Sistemas na UNIP** e estudo continuamente pela **Rocketseat**.
 
-Meu objetivo é me tornar um engenheiro especializado em **IA e LLMs**, desenvolvendo soluções inteligentes que resolvem problemas reais.
+Meu objetivo de longo prazo é atuar com **Engenharia de IA e LLMs**, construindo soluções que resolvem problemas reais — não só exercícios de curso.
 
 </td>
 <td valign="top" width="40%" align="center">
 
-<!-- 
-  ADICIONE AQUI SEU GIF PIXEL ART CYBERPUNK
-  Substitua a linha abaixo pela URL do seu GIF escolhido em:
-  https://opengameart.org ou https://itch.io
--->
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250px"/>
 
 </td>
@@ -40,11 +35,11 @@ Meu objetivo é me tornar um engenheiro especializado em **IA e LLMs**, desenvol
 
 | Projeto | Descrição | Tecnologias | Status |
 |--------|-----------|-------------|--------|
-| 💈 **Site Barbearia Mr. Magno** | Site institucional com foco em design responsivo | React · Tailwind CSS | ✅ Concluído |
-| ✂️ **PIM 2 — Reativação de Clientes** | Bot acadêmico de reativação de clientes em Python | Python | ✅ Concluído |
-| 💰 **PSL — Gestão Financeira** | App de controle financeiro pessoal sem planilhas | Python · HTML · CSS · JS | 💡 Concepção |
-| 🤖 **Jarvis Barber AI** | Assistente inteligente para barbearias via IA | Python · LLMs | 💡 Concepção |
-| 📚 **Python Studies** | Exercícios diários comentados — Rocketseat + Guanabara | Python | 🔄 Em andamento |
+| 💈 **Site Barbearia Mr. Magno** | Site institucional ao vivo, com domínio próprio | React · Tailwind CSS · Node.js | ✅ Concluído |
+| 🧩 **Barbearia SaaS** | Evolução do site: área de login com painel administrativo (financeiro, estoque, clientes, agenda) | React · Node.js | 🔄 Em desenvolvimento |
+| 🐾 **PetGo** | Plataforma de pet care local — diretório de clínicas, comunidade de adoção e comparador de farmácia. Documentação completa de produto (personas, análise de concorrência, escopo de MVP) | FastAPI · React · TypeScript · Tailwind · PostgreSQL | 📝 Planejamento |
+| ✂️ **PIM 2 — Reativação de Clientes** | Projeto acadêmico simulando um bot de reativação de clientes | Python | ✅ Concluído |
+| 📚 **Python Studies** | Exercícios diários comentados — Rocketseat + Curso em Vídeo (Gustavo Guanabara) | Python | 🔄 Em andamento |
 
 ---
 
@@ -58,15 +53,17 @@ Meu objetivo é me tornar um engenheiro especializado em **IA e LLMs**, desenvol
 
 **Frontend**
 
-[![My Skills](https://skillicons.dev/icons?i=react,js,html,css&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,ts,js,html,css&theme=dark)](https://skillicons.dev)
 
-**Automação & Cloud**
+**Cloud & Automação**
 
-[![My Skills](https://skillicons.dev/icons?i=aws&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=gcp,nodejs&theme=dark)](https://skillicons.dev)
 
 </div>
 
-> `n8n` · `Tailwind CSS` · `NoSQL` · `SQL Server` · `Power BI` · `Excel`
+> **Python** — linguagem principal
+> **Exploração assistida por IA:** Go · Rust · Node.js (usados em projetos reais para partes específicas de alta performance)
+> **Também:** `n8n` · `Tailwind CSS` · `NoSQL` · `SQL Server` · `Power BI` · `FastAPI`
 
 ---
 
@@ -97,11 +94,11 @@ Meu objetivo é me tornar um engenheiro especializado em **IA e LLMs**, desenvol
 ## 📍 Atualmente
 
 ```bash
-🌱 Estudando      : Python (Funções → POO) · Git/GitHub · n8n · Power BI + IA
-🎯 Foco           : Backend Development · IA Aplicada · LLMs (futuro)
-🏆 Próximos certs : Git/GitHub Rocketseat · Python Rocketseat
-📍 Localização    : Goiânia, Brasil
-🎓 Faculdade      : ADS — UNIP (2026 → 2028)
+🏢 Trabalhando em  : Educon FGV — desenvolvimento de agentes de IA (projeto corporativo)
+🌱 Aprofundando    : Python (rumo à certificação completa: APIs, FastAPI, banco de dados)
+🎯 Foco            : Backend Development · IA Aplicada · LLMs (próximo passo)
+📍 Localização     : Goiânia, Brasil
+🎓 Faculdade       : ADS — UNIP (2026 → 2028)
 ```
 
 ---
@@ -110,7 +107,7 @@ Meu objetivo é me tornar um engenheiro especializado em **IA e LLMs**, desenvol
 
 ```bash
 🇧🇷 Português  : Nativo
-🇮🇹 Italiano   : Fluente — morei 12 anos em Florença, Itália
+🇮🇹 Italiano   : Fluente — 12 anos em Florença, Itália
 🇬🇧 Inglês     : Intermediário
 🇪🇸 Espanhol   : Intermediário
 ```
