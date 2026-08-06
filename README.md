@@ -1,8 +1,8 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=250&section=header&text=SAMUEL%20UCHOA&fontSize=70&fontColor=00D9FF&animation=twinkling&fontAlignY=40&desc=Backend%20Engineer%20%7C%20Python%20%7C%20AI%20Developer&descSize=22&descFontColor=a0a0ff&descAlignY=62" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=250&section=header&text=SAMUEL%20UCHOA&fontSize=70&fontColor=00D9FF&animation=twinkling&fontAlignY=40&desc=AI%20Engineer%20%7C%20Python%20%C2%B7%20LLMs%20%26%20AI%20Agents%20%7C%20Go%20%C2%B7%20Rust%20%C2%B7%20TypeScript&descSize=18&descFontColor=a0a0ff&descAlignY=62" width="100%"/>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Backend+Engineer+%7C+Python+%26+AI;Building+Real+Products%2C+Not+Just+Exercises;Working+with+AI+Agents+in+Production;Always+building%2C+always+learning.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=AI+Engineer+%7C+Python+%26+LLMs;Building+Real+Products%2C+Not+Just+Exercises;Working+with+AI+Agents+in+Production;Always+building%2C+always+learning.)](https://git.io/typing-svg)
 
 </div>
 
@@ -18,7 +18,7 @@ Desenvolvedor Backend com foco em **Python** e **Inteligência Artificial aplica
 
 Atuo na **Educon FGV** desenvolvendo agentes de IA voltados para otimização de processos comerciais e operacionais. Curso **Análise e Desenvolvimento de Sistemas na UNIP** e estudo continuamente pela **Rocketseat**.
 
-Meu objetivo de longo prazo é atuar com **Engenharia de IA e LLMs**, construindo soluções que resolvem problemas reais — não só exercícios de curso.
+Meu objetivo de longo prazo é atuar com **Engenharia de IA e LLMs** — e cada projeto que construo é um passo real nessa direção.
 
 </td>
 <td valign="top" width="40%" align="center">
@@ -35,11 +35,10 @@ Meu objetivo de longo prazo é atuar com **Engenharia de IA e LLMs**, construind
 
 | Projeto | Descrição | Tecnologias | Status |
 |--------|-----------|-------------|--------|
+| 🤖 **Edu AI** | Agente de IA para atendimento, reativação e qualificação de leads da Educon/FGV. Arquitetura poliglota com fronteiras de responsabilidade bem definidas: núcleo em Python, mensageria em Go, rotinas críticas em Rust | Python · FastAPI · Go · Rust (PyO3) · TypeScript · React | 🔄 Em desenvolvimento — FGV |
 | 💈 **Site Barbearia Mr. Magno** | Site institucional ao vivo, com domínio próprio | React · Tailwind CSS · Node.js | ✅ Concluído |
 | 🧩 **Barbearia SaaS** | Evolução do site: área de login com painel administrativo (financeiro, estoque, clientes, agenda) | React · Node.js | 🔄 Em desenvolvimento |
 | 🐾 **PetGo** | Plataforma de pet care local — diretório de clínicas, comunidade de adoção e comparador de farmácia. Documentação completa de produto (personas, análise de concorrência, escopo de MVP) | FastAPI · React · TypeScript · Tailwind · PostgreSQL | 📝 Planejamento |
-| ✂️ **PIM 2 — Reativação de Clientes** | Projeto acadêmico simulando um bot de reativação de clientes | Python | ✅ Concluído |
-| 📚 **Python Studies** | Exercícios diários comentados — Rocketseat + Curso em Vídeo (Gustavo Guanabara) | Python | 🔄 Em andamento |
 
 ---
 
@@ -49,11 +48,11 @@ Meu objetivo de longo prazo é atuar com **Engenharia de IA e LLMs**, construind
 
 **Backend & Core**
 
-[![My Skills](https://skillicons.dev/icons?i=python,git,github,mysql,postgresql&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,go,rust,git,postgresql&theme=dark)](https://skillicons.dev)
 
 **Frontend**
 
-[![My Skills](https://skillicons.dev/icons?i=react,ts,js,html,css&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,ts,js,html,css,tailwind&theme=dark)](https://skillicons.dev)
 
 **Cloud & Automação**
 
@@ -61,9 +60,8 @@ Meu objetivo de longo prazo é atuar com **Engenharia de IA e LLMs**, construind
 
 </div>
 
-> **Python** — linguagem principal
-> **Exploração assistida por IA:** Go · Rust · Node.js (usados em projetos reais para partes específicas de alta performance)
-> **Também:** `n8n` · `Tailwind CSS` · `NoSQL` · `SQL Server` · `Power BI` · `FastAPI`
+> **Python** — núcleo do produto (APIs, IA/LLMs, RAG) · **Go** — mensageria e serviços concorrentes · **Rust** — rotinas de alta performance via PyO3
+> **Também:** `TypeScript` · `n8n` · `NoSQL` · `SQL Server` · `Power BI` · `FastAPI`
 
 ---
 
@@ -73,9 +71,9 @@ Meu objetivo de longo prazo é atuar com **Engenharia de IA e LLMs**, construind
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=SLU-369&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3)](https://git.io/streak-stats)
 
-[![Samuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=SLU-369&show_icons=true&theme=dark&hide_border=false&border_radius=5&include_all_commits=true)](https://github.com/SLU-369)
+[![Samuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=SLU-369&show_icons=true&theme=dark&hide_border=false&border_radius=5&include_all_commits=true&cache_seconds=86400)](https://github.com/SLU-369)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SLU-369&layout=compact&theme=dark&hide_border=false&border_radius=5)](https://github.com/SLU-369)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SLU-369&layout=compact&theme=dark&hide_border=false&border_radius=5&cache_seconds=86400)](https://github.com/SLU-369)
 
 </div>
 
@@ -95,8 +93,8 @@ Meu objetivo de longo prazo é atuar com **Engenharia de IA e LLMs**, construind
 
 ```bash
 🏢 Trabalhando em  : Educon FGV — desenvolvimento de agentes de IA (projeto corporativo)
-🌱 Aprofundando    : Python (rumo à certificação completa: APIs, FastAPI, banco de dados)
-🎯 Foco            : Backend Development · IA Aplicada · LLMs (próximo passo)
+🌱 Aprofundando    : Python (IA) · Go (Backend) · Rust (Otimização & Estruturas de Dados)
+🎯 Foco            : Dev Júnior Fullstack · IA Aplicada · LLMs (próximo passo)
 📍 Localização     : Goiânia, Brasil
 🎓 Faculdade       : ADS — UNIP (2026 → 2028)
 ```
