@@ -1,0 +1,159 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="390" viewBox="0 0 1000 390" role="img" aria-labelledby="title desc">
+<title id="title">Connected intelligence — neural-inspired RAG system</title>
+<desc id="desc">An animated neural network illustrates connected AI. The README explains knowledge indexing and question answering separately. This is a visual metaphor, not a model's actual neural architecture.</desc>
+<defs>
+<filter id="glow" x="-100%" y="-100%" width="300%" height="300%"><feGaussianBlur stdDeviation="3" result="blur"/><feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+<radialGradient id="halo"><stop stop-color="#39baff" stop-opacity=".12"/><stop offset="1" stop-color="#39baff" stop-opacity="0"/></radialGradient>
+<marker id="arrow" markerWidth="6" markerHeight="6" refX="5" refY="3" orient="auto"><path d="M0 0L6 3L0 6" fill="none" stroke="#39baff"/></marker>
+<style>
+text{font-family:Segoe UI,Arial,sans-serif;fill:#e5f4ff}.step{font-size:18px;font-weight:600;text-anchor:middle}.small{font-size:14px;fill:#90afc8;text-anchor:middle}.neuron{animation:fire 5s ease-in-out infinite}.impulses{opacity:.95}@keyframes fire{0%,70%,100%{opacity:.35}35%{opacity:1}}@media(prefers-reduced-motion:reduce){.neuron{animation:none}.impulses{display:none}}
+</style>
+</defs>
+<rect x="1" y="1" width="998" height="388" rx="24" fill="#060e19" stroke="#1d3951"/>
+<text x="40" y="48" font-size="25" font-weight="700">Connected intelligence</text>
+<text x="40" y="76" font-size="16" fill="#90afc8">Knowledge retrieved. Context connected. Answers generated.</text>
+<g transform="translate(0 18) scale(1 .74)">
+<ellipse cx="500" cy="240" rx="430" ry="176" fill="url(#halo)"/>
+<g fill="none" stroke="#274b6a" stroke-width="1" opacity=".65"><path d="M163 176L282 144"/>
+<path d="M163 176L282 208"/>
+<path d="M163 176L282 272"/>
+<path d="M163 176L282 336"/>
+<path d="M163 240L282 144"/>
+<path d="M163 240L282 208"/>
+<path d="M163 240L282 272"/>
+<path d="M163 240L282 336"/>
+<path d="M163 304L282 144"/>
+<path d="M163 304L282 208"/>
+<path d="M163 304L282 272"/>
+<path d="M163 304L282 336"/>
+<path d="M308 144L422 112"/>
+<path d="M308 144L422 176"/>
+<path d="M308 144L422 240"/>
+<path d="M308 144L422 304"/>
+<path d="M308 144L422 368"/>
+<path d="M308 208L422 112"/>
+<path d="M308 208L422 176"/>
+<path d="M308 208L422 240"/>
+<path d="M308 208L422 304"/>
+<path d="M308 208L422 368"/>
+<path d="M308 272L422 112"/>
+<path d="M308 272L422 176"/>
+<path d="M308 272L422 240"/>
+<path d="M308 272L422 304"/>
+<path d="M308 272L422 368"/>
+<path d="M308 336L422 112"/>
+<path d="M308 336L422 176"/>
+<path d="M308 336L422 240"/>
+<path d="M308 336L422 304"/>
+<path d="M308 336L422 368"/>
+<path d="M448 112L562 112"/>
+<path d="M448 112L562 176"/>
+<path d="M448 112L562 240"/>
+<path d="M448 112L562 304"/>
+<path d="M448 112L562 368"/>
+<path d="M448 176L562 112"/>
+<path d="M448 176L562 176"/>
+<path d="M448 176L562 240"/>
+<path d="M448 176L562 304"/>
+<path d="M448 176L562 368"/>
+<path d="M448 240L562 112"/>
+<path d="M448 240L562 176"/>
+<path d="M448 240L562 240"/>
+<path d="M448 240L562 304"/>
+<path d="M448 240L562 368"/>
+<path d="M448 304L562 112"/>
+<path d="M448 304L562 176"/>
+<path d="M448 304L562 240"/>
+<path d="M448 304L562 304"/>
+<path d="M448 304L562 368"/>
+<path d="M448 368L562 112"/>
+<path d="M448 368L562 176"/>
+<path d="M448 368L562 240"/>
+<path d="M448 368L562 304"/>
+<path d="M448 368L562 368"/>
+<path d="M588 112L702 144"/>
+<path d="M588 112L702 208"/>
+<path d="M588 112L702 272"/>
+<path d="M588 112L702 336"/>
+<path d="M588 176L702 144"/>
+<path d="M588 176L702 208"/>
+<path d="M588 176L702 272"/>
+<path d="M588 176L702 336"/>
+<path d="M588 240L702 144"/>
+<path d="M588 240L702 208"/>
+<path d="M588 240L702 272"/>
+<path d="M588 240L702 336"/>
+<path d="M588 304L702 144"/>
+<path d="M588 304L702 208"/>
+<path d="M588 304L702 272"/>
+<path d="M588 304L702 336"/>
+<path d="M588 368L702 144"/>
+<path d="M588 368L702 208"/>
+<path d="M588 368L702 272"/>
+<path d="M588 368L702 336"/>
+<path d="M728 144L837 176"/>
+<path d="M728 144L837 240"/>
+<path d="M728 144L837 304"/>
+<path d="M728 208L837 176"/>
+<path d="M728 208L837 240"/>
+<path d="M728 208L837 304"/>
+<path d="M728 272L837 176"/>
+<path d="M728 272L837 240"/>
+<path d="M728 272L837 304"/>
+<path d="M728 336L837 176"/>
+<path d="M728 336L837 240"/>
+<path d="M728 336L837 304"/>
+</g>
+<g class="impulses"><circle opacity="0" r="3" fill="#a1edff" filter="url(#glow)"><animate attributeName="opacity" values="0;.95;.95;0" dur="4s" repeatCount="indefinite"/><animateMotion path="M163 176L282 144" dur="3s" begin="-0s" repeatCount="indefinite"/></circle>
+<circle opacity="0" r="3" fill="#a1edff" filter="url(#glow)"><animate attributeName="opacity" values="0;.95;.95;0" dur="4s" repeatCount="indefinite"/><animateMotion path="M163 240L282 336" dur="3s" begin="-2.8s" repeatCount="indefinite"/></circle>
+<circle opacity="0" r="3" fill="#a1edff" filter="url(#glow)"><animate attributeName="opacity" values="0;.95;.95;0" dur="4s" repeatCount="indefinite"/><animateMotion path="M163 304L282 272" dur="3s" begin="-2.8s" repeatCount="indefinite"/></circle>
+<circle opacity="0" r="3" fill="#a1edff" filter="url(#glow)"><animate attributeName="opacity" values="0;.95;.95;0" dur="4s" repeatCount="indefinite"/><animateMotion path="M308 144L422 304" dur="4s" begin="-2.0999999999999996s" repeatCount="indefinite"/></circle>
+<circle opacity="0" r="3" fill="#a1edff" filter="url(#glow)"><animate attributeName="opacity" values="0;.95;.95;0" dur="4s" repeatCount="indefinite"/><animateMotion path="M308 208L422 240" dur="4s" begin="-2.0999999999999996s" repeatCount="indefinite"/></circle>
+<circle opacity="0" r="3" fill="#a1edff" filter="url(#glow)"><animate attributeName="opacity" values="0;.95;.95;0" dur="4s" repeatCount="indefinite"/><animateMotion path="M308 272L422 176" dur="4s" begin="-2.0999999999999996s" repeatCount="indefinite"/></circle>
+<circle opacity="0" r="3" fill="#a1edff" filter="url(#glow)"><animate attributeName="opacity" values="0;.95;.95;0" dur="4s" repeatCount="indefinite"/><animateMotion path="M308 336L422 112" dur="4s" begin="-2.0999999999999996s" repeatCount="indefinite"/></circle>
+<circle opacity="0" r="3" fill="#a1edff" filter="url(#glow)"><animate attributeName="opacity" values="0;.95;.95;0" dur="4s" repeatCount="indefinite"/><animateMotion path="M308 336L422 368" dur="4s" begin="-4.8999999999999995s" repeatCount="indefinite"/></circle>
+<circle opacity="0" r="3" fill="#a1edff" filter="url(#glow)"><animate attributeName="opacity" values="0;.95;.95;0" dur="4s" repeatCount="indefinite"/><animateMotion path="M448 112L562 240" dur="3s" begin="-1.4s" repeatCount="indefinite"/></circle>
+<circle opacity="0" r="3" fill="#a1edff" filter="url(#glow)"><animate attributeName="opacity" values="0;.95;.95;0" dur="4s" repeatCount="indefinite"/><animateMotion path="M448 176L562 176" dur="3s" begin="-1.4s" repeatCount="indefinite"/></circle>
+<circle opacity="0" r="3" fill="#a1edff" filter="url(#glow)"><animate attributeName="opacity" values="0;.95;.95;0" dur="4s" repeatCount="indefinite"/><animateMotion path="M448 240L562 112" dur="3s" begin="-1.4s" repeatCount="indefinite"/></circle>
+<circle opacity="0" r="3" fill="#a1edff" filter="url(#glow)"><animate attributeName="opacity" values="0;.95;.95;0" dur="4s" repeatCount="indefinite"/><animateMotion path="M448 240L562 368" dur="3s" begin="-4.199999999999999s" repeatCount="indefinite"/></circle>
+<circle opacity="0" r="3" fill="#a1edff" filter="url(#glow)"><animate attributeName="opacity" values="0;.95;.95;0" dur="4s" repeatCount="indefinite"/><animateMotion path="M448 304L562 304" dur="3s" begin="-4.199999999999999s" repeatCount="indefinite"/></circle>
+<circle opacity="0" r="3" fill="#a1edff" filter="url(#glow)"><animate attributeName="opacity" values="0;.95;.95;0" dur="4s" repeatCount="indefinite"/><animateMotion path="M448 368L562 240" dur="3s" begin="-4.199999999999999s" repeatCount="indefinite"/></circle>
+<circle opacity="0" r="3" fill="#a1edff" filter="url(#glow)"><animate attributeName="opacity" values="0;.95;.95;0" dur="4s" repeatCount="indefinite"/><animateMotion path="M588 112L702 208" dur="4s" begin="-0.7s" repeatCount="indefinite"/></circle>
+<circle opacity="0" r="3" fill="#a1edff" filter="url(#glow)"><animate attributeName="opacity" values="0;.95;.95;0" dur="4s" repeatCount="indefinite"/><animateMotion path="M588 176L702 144" dur="4s" begin="-0.7s" repeatCount="indefinite"/></circle>
+<circle opacity="0" r="3" fill="#a1edff" filter="url(#glow)"><animate attributeName="opacity" values="0;.95;.95;0" dur="4s" repeatCount="indefinite"/><animateMotion path="M588 240L702 336" dur="4s" begin="-3.5s" repeatCount="indefinite"/></circle>
+<circle opacity="0" r="3" fill="#a1edff" filter="url(#glow)"><animate attributeName="opacity" values="0;.95;.95;0" dur="4s" repeatCount="indefinite"/><animateMotion path="M588 304L702 272" dur="4s" begin="-3.5s" repeatCount="indefinite"/></circle>
+<circle opacity="0" r="3" fill="#a1edff" filter="url(#glow)"><animate attributeName="opacity" values="0;.95;.95;0" dur="4s" repeatCount="indefinite"/><animateMotion path="M588 368L702 208" dur="4s" begin="-3.5s" repeatCount="indefinite"/></circle>
+<circle opacity="0" r="3" fill="#a1edff" filter="url(#glow)"><animate attributeName="opacity" values="0;.95;.95;0" dur="4s" repeatCount="indefinite"/><animateMotion path="M728 144L837 176" dur="3s" begin="-0s" repeatCount="indefinite"/></circle>
+<circle opacity="0" r="3" fill="#a1edff" filter="url(#glow)"><animate attributeName="opacity" values="0;.95;.95;0" dur="4s" repeatCount="indefinite"/><animateMotion path="M728 272L837 304" dur="3s" begin="-2.8s" repeatCount="indefinite"/></circle>
+<circle opacity="0" r="3" fill="#a1edff" filter="url(#glow)"><animate attributeName="opacity" values="0;.95;.95;0" dur="4s" repeatCount="indefinite"/><animateMotion path="M728 336L837 240" dur="3s" begin="-2.8s" repeatCount="indefinite"/></circle>
+</g>
+<circle cx="150" cy="176" r="13" fill="#0c253c" stroke="#39baff" stroke-width="2" transform="translate(0 176) scale(1 1.35135) translate(0 -176)"/><circle class="neuron" style="animation-delay:-0s" cx="150" cy="176" r="4" fill="#a1edff" transform="translate(0 176) scale(1 1.35135) translate(0 -176)"/>
+<circle cx="150" cy="240" r="13" fill="#0c253c" stroke="#39baff" stroke-width="2" transform="translate(0 240) scale(1 1.35135) translate(0 -240)"/><circle class="neuron" style="animation-delay:-1s" cx="150" cy="240" r="4" fill="#a1edff" transform="translate(0 240) scale(1 1.35135) translate(0 -240)"/>
+<circle cx="150" cy="304" r="13" fill="#0c253c" stroke="#39baff" stroke-width="2" transform="translate(0 304) scale(1 1.35135) translate(0 -304)"/><circle class="neuron" style="animation-delay:-2s" cx="150" cy="304" r="4" fill="#a1edff" transform="translate(0 304) scale(1 1.35135) translate(0 -304)"/>
+<circle cx="295" cy="144" r="13" fill="#0c253c" stroke="#39baff" stroke-width="2" transform="translate(0 144) scale(1 1.35135) translate(0 -144)"/><circle class="neuron" style="animation-delay:-1s" cx="295" cy="144" r="4" fill="#a1edff" transform="translate(0 144) scale(1 1.35135) translate(0 -144)"/>
+<circle cx="295" cy="208" r="13" fill="#0c253c" stroke="#39baff" stroke-width="2" transform="translate(0 208) scale(1 1.35135) translate(0 -208)"/><circle class="neuron" style="animation-delay:-2s" cx="295" cy="208" r="4" fill="#a1edff" transform="translate(0 208) scale(1 1.35135) translate(0 -208)"/>
+<circle cx="295" cy="272" r="13" fill="#0c253c" stroke="#39baff" stroke-width="2" transform="translate(0 272) scale(1 1.35135) translate(0 -272)"/><circle class="neuron" style="animation-delay:-3s" cx="295" cy="272" r="4" fill="#a1edff" transform="translate(0 272) scale(1 1.35135) translate(0 -272)"/>
+<circle cx="295" cy="336" r="13" fill="#0c253c" stroke="#39baff" stroke-width="2" transform="translate(0 336) scale(1 1.35135) translate(0 -336)"/><circle class="neuron" style="animation-delay:-4s" cx="295" cy="336" r="4" fill="#a1edff" transform="translate(0 336) scale(1 1.35135) translate(0 -336)"/>
+<circle cx="435" cy="112" r="13" fill="#0c253c" stroke="#39baff" stroke-width="2" transform="translate(0 112) scale(1 1.35135) translate(0 -112)"/><circle class="neuron" style="animation-delay:-2s" cx="435" cy="112" r="4" fill="#a1edff" transform="translate(0 112) scale(1 1.35135) translate(0 -112)"/>
+<circle cx="435" cy="176" r="13" fill="#0c253c" stroke="#39baff" stroke-width="2" transform="translate(0 176) scale(1 1.35135) translate(0 -176)"/><circle class="neuron" style="animation-delay:-3s" cx="435" cy="176" r="4" fill="#a1edff" transform="translate(0 176) scale(1 1.35135) translate(0 -176)"/>
+<circle cx="435" cy="240" r="13" fill="#0c253c" stroke="#39baff" stroke-width="2" transform="translate(0 240) scale(1 1.35135) translate(0 -240)"/><circle class="neuron" style="animation-delay:-4s" cx="435" cy="240" r="4" fill="#a1edff" transform="translate(0 240) scale(1 1.35135) translate(0 -240)"/>
+<circle cx="435" cy="304" r="13" fill="#0c253c" stroke="#39baff" stroke-width="2" transform="translate(0 304) scale(1 1.35135) translate(0 -304)"/><circle class="neuron" style="animation-delay:-5s" cx="435" cy="304" r="4" fill="#a1edff" transform="translate(0 304) scale(1 1.35135) translate(0 -304)"/>
+<circle cx="435" cy="368" r="13" fill="#0c253c" stroke="#39baff" stroke-width="2" transform="translate(0 368) scale(1 1.35135) translate(0 -368)"/><circle class="neuron" style="animation-delay:-6s" cx="435" cy="368" r="4" fill="#a1edff" transform="translate(0 368) scale(1 1.35135) translate(0 -368)"/>
+<circle cx="575" cy="112" r="13" fill="#0c253c" stroke="#39baff" stroke-width="2" transform="translate(0 112) scale(1 1.35135) translate(0 -112)"/><circle class="neuron" style="animation-delay:-3s" cx="575" cy="112" r="4" fill="#a1edff" transform="translate(0 112) scale(1 1.35135) translate(0 -112)"/>
+<circle cx="575" cy="176" r="13" fill="#0c253c" stroke="#39baff" stroke-width="2" transform="translate(0 176) scale(1 1.35135) translate(0 -176)"/><circle class="neuron" style="animation-delay:-4s" cx="575" cy="176" r="4" fill="#a1edff" transform="translate(0 176) scale(1 1.35135) translate(0 -176)"/>
+<circle cx="575" cy="240" r="13" fill="#0c253c" stroke="#39baff" stroke-width="2" transform="translate(0 240) scale(1 1.35135) translate(0 -240)"/><circle class="neuron" style="animation-delay:-5s" cx="575" cy="240" r="4" fill="#a1edff" transform="translate(0 240) scale(1 1.35135) translate(0 -240)"/>
+<circle cx="575" cy="304" r="13" fill="#0c253c" stroke="#39baff" stroke-width="2" transform="translate(0 304) scale(1 1.35135) translate(0 -304)"/><circle class="neuron" style="animation-delay:-6s" cx="575" cy="304" r="4" fill="#a1edff" transform="translate(0 304) scale(1 1.35135) translate(0 -304)"/>
+<circle cx="575" cy="368" r="13" fill="#0c253c" stroke="#39baff" stroke-width="2" transform="translate(0 368) scale(1 1.35135) translate(0 -368)"/><circle class="neuron" style="animation-delay:-7s" cx="575" cy="368" r="4" fill="#a1edff" transform="translate(0 368) scale(1 1.35135) translate(0 -368)"/>
+<circle cx="715" cy="144" r="13" fill="#0c253c" stroke="#39baff" stroke-width="2" transform="translate(0 144) scale(1 1.35135) translate(0 -144)"/><circle class="neuron" style="animation-delay:-4s" cx="715" cy="144" r="4" fill="#a1edff" transform="translate(0 144) scale(1 1.35135) translate(0 -144)"/>
+<circle cx="715" cy="208" r="13" fill="#0c253c" stroke="#39baff" stroke-width="2" transform="translate(0 208) scale(1 1.35135) translate(0 -208)"/><circle class="neuron" style="animation-delay:-5s" cx="715" cy="208" r="4" fill="#a1edff" transform="translate(0 208) scale(1 1.35135) translate(0 -208)"/>
+<circle cx="715" cy="272" r="13" fill="#0c253c" stroke="#39baff" stroke-width="2" transform="translate(0 272) scale(1 1.35135) translate(0 -272)"/><circle class="neuron" style="animation-delay:-6s" cx="715" cy="272" r="4" fill="#a1edff" transform="translate(0 272) scale(1 1.35135) translate(0 -272)"/>
+<circle cx="715" cy="336" r="13" fill="#0c253c" stroke="#39baff" stroke-width="2" transform="translate(0 336) scale(1 1.35135) translate(0 -336)"/><circle class="neuron" style="animation-delay:-7s" cx="715" cy="336" r="4" fill="#a1edff" transform="translate(0 336) scale(1 1.35135) translate(0 -336)"/>
+<circle cx="850" cy="176" r="13" fill="#0c253c" stroke="#39baff" stroke-width="2" transform="translate(0 176) scale(1 1.35135) translate(0 -176)"/><circle class="neuron" style="animation-delay:-5s" cx="850" cy="176" r="4" fill="#a1edff" transform="translate(0 176) scale(1 1.35135) translate(0 -176)"/>
+<circle cx="850" cy="240" r="13" fill="#0c253c" stroke="#39baff" stroke-width="2" transform="translate(0 240) scale(1 1.35135) translate(0 -240)"/><circle class="neuron" style="animation-delay:-6s" cx="850" cy="240" r="4" fill="#a1edff" transform="translate(0 240) scale(1 1.35135) translate(0 -240)"/>
+<circle cx="850" cy="304" r="13" fill="#0c253c" stroke="#39baff" stroke-width="2" transform="translate(0 304) scale(1 1.35135) translate(0 -304)"/><circle class="neuron" style="animation-delay:-7s" cx="850" cy="304" r="4" fill="#a1edff" transform="translate(0 304) scale(1 1.35135) translate(0 -304)"/>
+
+<path d="M65 240h68M865 240h67" stroke="#39baff" stroke-width="2" marker-end="url(#arrow)"/>
+<text x="75" y="340" class="small">INPUT</text><text x="925" y="340" class="small">OUTPUT</text>
+</g>
+<text x="500" y="362" class="small">Neural-inspired visual metaphor · signals represent information flow</text>
+</svg>

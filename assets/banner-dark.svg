@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+  <title id="title">Samuel Uchoa — Backend and AI Engineer</title>
+  <desc id="desc">Slow fluid waves shift from blue toward soft violet. Text is revealed once on load and a white light sweeps across Samuel Uchoa. Reduced motion shows a static, complete banner.</desc>
+  <defs>
+    <clipPath id="nameReveal" clipPathUnits="userSpaceOnUse"><rect class="reveal-name" x="250" y="76" width="700" height="86"/></clipPath>
+    <clipPath id="roleReveal" clipPathUnits="userSpaceOnUse"><rect class="reveal-role" x="250" y="165" width="700" height="46"/></clipPath>
+    <clipPath id="stackReveal" clipPathUnits="userSpaceOnUse"><rect class="reveal-stack" x="250" y="240" width="700" height="40"/></clipPath>
+    <linearGradient id="sheen" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="210" y2="0">
+      <stop stop-color="#fff" stop-opacity="0"/><stop offset=".5" stop-color="#fff" stop-opacity=".95"/><stop offset="1" stop-color="#fff" stop-opacity="0"/>
+      <animateTransform attributeName="gradientTransform" type="translate" values="0 0;0 0;1050 0;1050 0" keyTimes="0;.2;.65;1" dur="14s" begin="2.5s" repeatCount="indefinite"/>
+    </linearGradient>
+    <radialGradient id="bg" cx="50%" cy="45%" r="78%"><stop stop-color="#101d2a"/><stop offset=".65" stop-color="#070d14"/><stop offset="1" stop-color="#030609"/></radialGradient>
+    <linearGradient id="ink" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#ffffff"/><stop offset=".58" class="tint-3" stop-color="#75c9ff"/><stop offset="1" class="tint-4" stop-color="#25bce7"/></linearGradient>
+    <linearGradient id="wave" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#d9f3ff" stop-opacity=".75"/><stop offset=".3" class="tint-0" stop-color="#238fdc" stop-opacity=".78"/><stop offset=".72" class="tint-1" stop-color="#075193" stop-opacity=".56"/><stop offset="1" stop-color="#02192c" stop-opacity=".05"/></linearGradient>
+    <linearGradient id="waveSoft" x1="0" y1="1" x2="1" y2="0"><stop class="tint-2" stop-color="#149fe1" stop-opacity=".45"/><stop offset="1" stop-color="#81d9ff" stop-opacity=".04"/></linearGradient>
+    <filter id="glow"><feGaussianBlur stdDeviation="13" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+    <filter id="textGlow"><feGaussianBlur stdDeviation="2.4" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+    <style>
+      .flow-a{animation:drift-a 22s ease-in-out infinite alternate;transform-origin:center}.flow-b{animation:drift-b 28s ease-in-out infinite alternate;transform-origin:center}.particle{animation:float 9s ease-in-out infinite alternate}.delay{animation-delay:-4s}.pulse{animation:pulse 7s ease-in-out infinite alternate}@keyframes drift-a{to{transform:translate(26px,-8px) scale(1.035)}}@keyframes drift-b{to{transform:translate(-22px,10px) scale(1.025)}}@keyframes float{to{transform:translate(8px,-12px);opacity:.25}}@keyframes pulse{to{opacity:.62}}@media (prefers-reduced-motion:reduce){.flow-a,.flow-b,.particle,.pulse{animation:none}}
+
+      .tint-0{animation:tint-0 120s ease-in-out infinite}@keyframes tint-0{0%,12%,100%{stop-color:#238fdc}48%,65%{stop-color:#7769da}}
+.tint-1{animation:tint-1 120s ease-in-out infinite}@keyframes tint-1{0%,12%,100%{stop-color:#075193}48%,65%{stop-color:#49428a}}
+.tint-2{animation:tint-2 120s ease-in-out infinite}@keyframes tint-2{0%,12%,100%{stop-color:#149fe1}48%,65%{stop-color:#826cd6}}
+.tint-3{animation:tint-3 120s ease-in-out infinite}@keyframes tint-3{0%,12%,100%{stop-color:#75c9ff}48%,65%{stop-color:#b2acfa}}
+.tint-4{animation:tint-4 120s ease-in-out infinite}@keyframes tint-4{0%,12%,100%{stop-color:#25bce7}48%,65%{stop-color:#9c8be9}}
+
+      .reveal-name{width:700px}
+      .reveal-role{animation:write 1.6s steps(24,end) 2.5s both}
+      .reveal-stack{animation:write 1.8s steps(42,end) 4.2s both}
+      @keyframes write{from{width:0}to{width:700px}}
+      @keyframes drift-a{0%{transform:translate(0,0) rotate(0deg) scale(1)}50%{transform:translate(12px,-6px) rotate(1deg) scale(1.025)}100%{transform:translate(30px,-12px) rotate(-1.5deg) scale(1.05)}}
+      @keyframes drift-b{0%{transform:translate(0,0) rotate(0deg) scale(1)}50%{transform:translate(-12px,5px) rotate(-1deg) scale(1.02)}100%{transform:translate(-28px,12px) rotate(1.5deg) scale(1.045)}}
+      @keyframes pulse{from{opacity:.12}to{opacity:.18}}
+      @media(prefers-reduced-motion:reduce){.tint-0,.tint-1,.tint-2,.tint-3,.tint-4,.reveal-name,.reveal-role,.reveal-stack{animation:none}.sheen{display:none}}
+    </style>
+  </defs>
+  <rect width="1200" height="360" rx="24" fill="url(#bg)"/>
+  <ellipse class="pulse" cx="600" cy="178" rx="320" ry="125" fill="#1376ba" opacity=".12" filter="url(#glow)"/>
+  <g class="flow-a" filter="url(#glow)">
+    <path d="M-80 5C45 18 56 101 142 106c101 6 101-83 202-70C185 84 254 207 111 245 29 267-27 225-80 204Z" fill="url(#wave)"/>
+    <path d="M-70 205c106-74 202-45 291 8 97 57 179 72 294 40-120 76-245 82-363 38C52 254 4 284-70 330Z" fill="url(#waveSoft)"/>
+  </g>
+  <g class="flow-b" filter="url(#glow)">
+    <path d="M1280-20c-106 3-145 91-236 95-79 4-98-55-188-41 135 43 68 166 216 182 95 10 143-42 208-12Z" fill="url(#wave)"/>
+    <path d="M1265 217c-100-45-181-20-266 27-85 48-181 59-296 25 130 74 260 68 374 20 78-33 129-10 188 34Z" fill="url(#waveSoft)"/>
+  </g>
+  <path d="M0 326c173-83 292-16 432-17 162-2 236-75 382-41 128 30 218 62 386 9v83H0Z" fill="#198fd0" opacity=".18" filter="url(#glow)"/>
+  <g fill="#4fc4ff" filter="url(#textGlow)">
+    <circle class="particle" cx="112" cy="70" r="4" opacity=".75"/><circle class="particle delay" cx="170" cy="132" r="2.5" opacity=".65"/><circle class="particle" cx="1068" cy="99" r="3.5" opacity=".68"/><circle class="particle delay" cx="1118" cy="161" r="2" opacity=".55"/>
+  </g>
+  <g text-anchor="middle" font-family="Inter,Segoe UI,Arial,sans-serif">
+    <g clip-path="url(#nameReveal)"><text x="600" y="145" font-size="62" font-weight="800" letter-spacing="3" fill="url(#ink)" filter="url(#textGlow)">SAMUEL UCHOA</text><text class="sheen" x="600" y="145" font-size="62" font-weight="800" letter-spacing="3" fill="url(#sheen)" aria-hidden="true">SAMUEL UCHOA</text></g>
+    <text clip-path="url(#roleReveal)" x="600" y="198" font-size="27" font-weight="600" letter-spacing="1.5" fill="#d4ebfa">Backend &amp; AI Engineer</text>
+    <path d="M410 226h155m70 0h155" stroke="#4aa9db" stroke-width="2" opacity=".75"/><circle cx="600" cy="226" r="5" fill="#4bc4fa" filter="url(#textGlow)"/>
+    <text clip-path="url(#stackReveal)" x="600" y="267" font-size="18" font-weight="500" letter-spacing="2" fill="#b7cce0">Python · Go · LLMs · AI Agents</text>
+  </g>
+  <rect x=".75" y=".75" width="1198.5" height="358.5" rx="23.25" fill="none" stroke="#163047" stroke-width="1.5"/>
+</svg>
